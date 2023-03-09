@@ -6,6 +6,7 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="PolgarGabor_BankiSzolgaltatasok" />
         <module name="BankiSzolgaltatasok" />
         <module name="Java_BankiSzolgaltatasok-master" />
       </profile>
